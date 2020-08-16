@@ -10,8 +10,10 @@ You can find and get touch with me on these accounts!
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/AlexanderVerse) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/alexandermonty92/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)
 |---|---|---|
 
-Thank you for your collaboration, a warm hug 
+Thank you for your collaboration, a warm hug   
 <a href="https://icons8.com/icon/eMdBqh1N9IWw/c">C icon by Icons8</a>
+<a href="https://icons8.com/icon/13441/python">Python icon by Icons8</a>
+<a href="https://icons8.com/icon/74402/mongodb">MongoDB icon by Icons8</a>
 <!--
 **AlexanderVerse/AlexanderVerse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
