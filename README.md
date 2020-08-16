@@ -1,7 +1,7 @@
 | [<img src="https://img.icons8.com/color/480/000000/mongodb.png" alt="v logo" width="80">]()  | [<img src="https://img.icons8.com/color/480/000000/nodejs.png" alt="go logo" width="80">]() | [<img src="https://img.icons8.com/color/480/000000/python.png" alt="cpp logo" width="50">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="50">](https://www.gnu.org/software/bash/)  |[<img src="https://img.icons8.com/cute-clipart/64/000000/c.png">]()|
 |---|---|---|---|---|
 
-![visitors](https://visitor-badge.glitch.me/badge?${your.username}.${your.repo.id})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AlexanderVerse.visitor-badge)
 ## ¡Hey! 🤖, My name is Alexander and I am a back end developer.💻
 - I'm currently learning **microservices** 🚢🐳
 - Ask me about **Android**
