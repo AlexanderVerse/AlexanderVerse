@@ -9,6 +9,37 @@
 - I'm currently learning **microservices** 🚢🐳
 - Ask me about **Android**
 
+Here's my `Manifest.toml`:
+
+```toml
+
+[personal]
+name = 'Govind KP'
+city = 'Bengaluru, India'
+email = 'reisub0 "at" gmail.com'
+
+[professional]
+currently-employed = true
+title = 'Software Development Engineer'
+employer = 'MathWorks Inc.'
+
+[bio]
+categories = [
+  'generalist',
+]
+interests = [
+  'functional-programming',
+  'linux',
+  'open-source',
+]
+programming-languages = [
+  'c/cpp',
+  'python',
+  'unity/c#',
+  'rust',
+  'go',
+]
+
 
 You can find and get touch with me on these accounts!
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/AlexanderVerse) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/alexandermonty92/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)
