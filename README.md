@@ -14,6 +14,7 @@ Thank you for your collaboration, a warm hug
 <a href="https://icons8.com/icon/eMdBqh1N9IWw/c">C icon by Icons8</a>
 <a href="https://icons8.com/icon/13441/python">Python icon by Icons8</a>
 <a href="https://icons8.com/icon/74402/mongodb">MongoDB icon by Icons8</a>
+<a href="https://icons8.com/icon/54087/nodejs">Nodejs icon by Icons8</a>
 <!--
 **AlexanderVerse/AlexanderVerse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
