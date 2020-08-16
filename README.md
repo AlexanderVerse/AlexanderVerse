@@ -1,5 +1,5 @@
-| [<img src="https://img.icons8.com/color/480/000000/mongodb.png" alt="v logo" width="80">]()  | [<img src="https://img.icons8.com/color/480/000000/nodejs.png" alt="go logo" width="80">]() | [<img src="https://img.icons8.com/color/480/000000/python.png" alt="cpp logo" width="50">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="50">](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="50">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="50">](https://www.gnu.org/software/bash/)  |
-|---|---|---|---|---|---|
+| [<img src="https://img.icons8.com/color/480/000000/mongodb.png" alt="v logo" width="80">]()  | [<img src="https://img.icons8.com/color/480/000000/nodejs.png" alt="go logo" width="80">]() | [<img src="https://img.icons8.com/color/480/000000/python.png" alt="cpp logo" width="50">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="50">](https://www.gnu.org/software/bash/)  |
+|---|---|---|
 
 ## ¡Hey! 🤖, My name is Alexander and I am a back end developer.💻
 - I'm currently learning **microservices** 🚢🐳
