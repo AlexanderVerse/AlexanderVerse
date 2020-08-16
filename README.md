@@ -2,6 +2,9 @@
 |---|---|---|---|---|
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlexanderVerse.AlexanderVerse)
+[![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25)
+
+
 ## ¡Hey! 🤖, My name is Alexander and I am a back end developer.💻
 - I'm currently learning **microservices** 🚢🐳
 - Ask me about **Android**
