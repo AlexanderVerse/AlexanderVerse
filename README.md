@@ -2,7 +2,7 @@
 - I'm currently learning **microservices** 🚢🐳
 - Ask me about **Android developer**
 
-### With what I develop 🌐
+### I am developing with 🌐
 
 - Know/Using
 
