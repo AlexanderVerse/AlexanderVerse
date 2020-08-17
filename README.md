@@ -13,7 +13,11 @@ Tools 🛠️
 - Learning
 
 You can find and get touch with me on these accounts!
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/AlexanderVerse) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/alexandermonty92/)
+<a href="https://github.com/AlexanderVerse">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="github logo" width="34">
+</a>
+
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/alexandermonty92/)
 |---|---|
 
 Thank you for your collaboration, a warm hug 💖😍   
