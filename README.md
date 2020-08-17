@@ -10,15 +10,18 @@
 | [<img src="https://img.icons8.com/color/480/000000/mongodb.png" alt="v logo" width="80">]()  | [<img src="https://img.icons8.com/color/480/000000/nodejs.png" alt="go logo" width="80">]() | [<img src="https://img.icons8.com/color/480/000000/python.png" alt="cpp logo" width="50">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="50">](https://www.gnu.org/software/bash/)  |[<img src="https://img.icons8.com/cute-clipart/64/000000/c.png">]()|
 |---|---|---|---|---|
 
-Tools 🛠️
 - Learning
+
+Tools 🛠️
+
 
 
 🦔 I invite you to know more about me, visit me!😎🧢
 
-<a href="https://github.com/AlexanderVerse">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="github logo" width="22px">
-</a>
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg)](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg)
+<!--<a href="https://github.com/AlexanderVerse">
+  <img src="" alt="github logo" width="22px">
+</a>-->
 <a href="https://www.linkedin.com/in/alexander-rangel-gonzález-181656184/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
