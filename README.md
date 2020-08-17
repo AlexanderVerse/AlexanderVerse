@@ -1,12 +1,10 @@
-!Hey <img src="https://octodex.github.com/images/spidertocat.png" alt="github logo" width="170px"> developer!
+# !Hey <img src="https://octodex.github.com/images/spidertocat.png" alt="github logo" width="170px"> developer!
 
 <img src="https://octodex.github.com/images/baracktocat.jpg" alt="github code" width="100px">
 
 ## I hope 💖 and find what you need!🦾 and I invite you to meet me, let's go 💻🤖!
 - I'm currently learning **microservices** 🚢🐳
 - Ask me about **Android developer**
-
-<p style="font-size:500px">This is a paragraph.</p>
 
 ### I am developing with 🌐
 
