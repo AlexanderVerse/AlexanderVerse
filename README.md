@@ -7,9 +7,6 @@
 
 - Know/Using
 
-| [<img src="https://img.icons8.com/color/480/000000/mongodb.png" alt="v logo" width="80">]()  | [<img src="https://img.icons8.com/color/480/000000/nodejs.png" alt="go logo" width="80">]() | [<img src="https://img.icons8.com/color/480/000000/python.png" alt="cpp logo" width="50">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="50">](https://www.gnu.org/software/bash/)  |[<img src="https://img.icons8.com/cute-clipart/64/000000/c.png">]()|
-|---|---|---|---|---|
-
 - Learning
 
 Tools 🛠️
@@ -29,10 +26,6 @@ Tools 🛠️
 </a>
 
 Thank you for your collaboration, a warm hug 💖😍   
-<a href="https://icons8.com/icon/eMdBqh1N9IWw/c">C icon by Icons8</a>, 
-<a href="https://icons8.com/icon/13441/python">Python icon by Icons8</a>, 
-<a href="https://icons8.com/icon/74402/mongodb">MongoDB icon by Icons8</a>, 
-<a href="https://icons8.com/icon/54087/nodejs">Nodejs icon by Icons8</a>
 <!--
 **AlexanderVerse/AlexanderVerse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
