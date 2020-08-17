@@ -1,4 +1,4 @@
-# <p align="center">!Hey<img src="https://octodex.github.com/images/spidertocat.png" alt="github logo" width="170px">developer!</p>
+# <p align="center">! Hey<img src="https://octodex.github.com/images/spidertocat.png" alt="github logo" width="110px">developer !</p>
 
 <img src="https://octodex.github.com/images/baracktocat.jpg" alt="github code" width="100px">
 
