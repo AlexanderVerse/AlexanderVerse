@@ -1,10 +1,8 @@
-<p align="center"><img src="https://octodex.github.com/images/spidertocat.png" alt="github logo" width="170px"></p>
-
-# ¡Hey developer🤖!
+<p align="center">¡Hey <img src="https://octodex.github.com/images/spidertocat.png" alt="github logo" width="170px"> developer!</p>
 
 <img src="https://octodex.github.com/images/baracktocat.jpg" alt="github code" width="100px">
 
-## I hope 💖 and find what you need!🦾 and I invite you to meet me, let's go 💻
+## I hope 💖 and find what you need!🦾 and I invite you to meet me, let's go 💻🤖!
 - I'm currently learning **microservices** 🚢🐳
 - Ask me about **Android developer**
 
