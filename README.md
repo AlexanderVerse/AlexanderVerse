@@ -1,4 +1,4 @@
-## ¡Hey! 🤖, My name is Alexander and I am a backend developer.💻
+## ¡Hey! 🤖, My name is Alexander and I invite you to meet me, let's go 💻
 - I'm currently learning **microservices** 🚢🐳
 - Ask me about **Android developer**
 
@@ -12,7 +12,7 @@
 Tools 🛠️
 - Learning
 
-Know more about me!    
+Know more about me!😎🧢🦔
 <a href="https://github.com/AlexanderVerse">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="github logo" width="22px">
 </a>
