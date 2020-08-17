@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 16px">¡ Hey <img src="https://octodex.github.com/images/spidertocat.png" alt="github logo" width="170px"> developer !</p>
+<p align="center" style="font-size: 16px"><FONT SIZE=3>¡ Hey </font><img src="https://octodex.github.com/images/spidertocat.png" alt="github logo" width="170px"> developer !</p>
 
 <img src="https://octodex.github.com/images/baracktocat.jpg" alt="github code" width="100px">
 
