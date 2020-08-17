@@ -1,4 +1,5 @@
-## ¡Hey developer,🤖 I hope and find what you need!🦾 and I invite you to meet me, let's go 💻❤
+# ¡Hey developer🤖!
+## I hope 💖 and find what you need!🦾 and I invite you to meet me, let's go 💻
 - I'm currently learning **microservices** 🚢🐳
 - Ask me about **Android developer**
 
