@@ -1,4 +1,4 @@
-!Hey<img src="https://octodex.github.com/images/spidertocat.png" alt="github logo" width="170px"> developer !
+!Hey <img src="https://octodex.github.com/images/spidertocat.png" alt="github logo" width="170px"> developer!
 
 <img src="https://octodex.github.com/images/baracktocat.jpg" alt="github code" width="100px">
 
