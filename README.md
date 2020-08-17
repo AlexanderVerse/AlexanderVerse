@@ -1,4 +1,4 @@
-<p align="center"><img src="https://octodex.github.com/images/spidertocat.png" alt="github logo" width="200px"></p>
+<p align="center"><img src="https://octodex.github.com/images/spidertocat.png" alt="github logo" width="170px"></p>
 
 # ¡Hey developer🤖!
 ## I hope 💖 and find what you need!🦾 and I invite you to meet me, let's go 💻
