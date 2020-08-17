@@ -14,7 +14,7 @@ Tools 🛠️
 
 You can find and get touch with me on these accounts!   
 <a href="https://github.com/AlexanderVerse">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="github logo" width="34">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="github logo" width="22px">
 </a>
 <a href="https://www.linkedin.com/in/alexander-rangel-gonzález-181656184/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
