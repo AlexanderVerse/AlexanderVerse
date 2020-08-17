@@ -5,7 +5,7 @@
 [![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25)-->
 
 
-## ¡Hey! 🤖, My name is Alexander and I am a back end developer.💻
+## ¡Hey! 🤖, My name is Alexander and I am a backend developer.💻
 - I'm currently learning **microservices** 🚢🐳
 - Ask me about **Android developer**
 
