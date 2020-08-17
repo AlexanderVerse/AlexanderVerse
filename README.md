@@ -2,19 +2,14 @@
 - I'm currently learning **microservices** 🚢🐳
 - Ask me about **Android developer**
 
-### Programming Languages 🌐
+### With what I develop 🌐
 
 - Know/Using
 
 | [<img src="https://img.icons8.com/color/480/000000/mongodb.png" alt="v logo" width="80">]()  | [<img src="https://img.icons8.com/color/480/000000/nodejs.png" alt="go logo" width="80">]() | [<img src="https://img.icons8.com/color/480/000000/python.png" alt="cpp logo" width="50">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="50">](https://www.gnu.org/software/bash/)  |[<img src="https://img.icons8.com/cute-clipart/64/000000/c.png">]()|
 |---|---|---|---|---|
 
-- Learning
-
-### Tools 🛠️
-
-- Know/Using
-
+Tools 🛠️
 - Learning
 
 You can find and get touch with me on these accounts!
