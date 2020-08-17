@@ -12,7 +12,7 @@
 Tools 🛠️
 - Learning
 
-You can find and get touch with me on these accounts!   
+Know more about me!    
 <a href="https://github.com/AlexanderVerse">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="github logo" width="22px">
 </a>
