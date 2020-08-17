@@ -12,7 +12,7 @@
 Tools 🛠️
 - Learning
 
-You can find and get touch with me on these accounts!
+You can find and get touch with me on these accounts!   
 <a href="https://github.com/AlexanderVerse">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="github logo" width="34">
 </a>
@@ -22,10 +22,6 @@ You can find and get touch with me on these accounts!
 <a href="https://www.instagram.com/alexandermonty92/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/alexandermonty92/)
-|---|---|
 
 Thank you for your collaboration, a warm hug 💖😍   
 <a href="https://icons8.com/icon/eMdBqh1N9IWw/c">C icon by Icons8</a>, 
