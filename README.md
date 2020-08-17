@@ -1,3 +1,4 @@
+<img src="https://octodex.github.com/images/yaktocat.png" alt="github logo" width="22px">
 # ¡Hey developer🤖!
 ## I hope 💖 and find what you need!🦾 and I invite you to meet me, let's go 💻
 - I'm currently learning **microservices** 🚢🐳
