@@ -16,6 +16,13 @@ You can find and get touch with me on these accounts!
 <a href="https://github.com/AlexanderVerse">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="github logo" width="34">
 </a>
+<a href="https://www.linkedin.com/in/alexander-rangel-gonzález-181656184/">
+  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/alexandermonty92/">
+  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
 
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/alexandermonty92/)
 |---|---|
