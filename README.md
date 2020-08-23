@@ -7,7 +7,7 @@
 <img src="https://octodex.github.com/images/droidtocat.png" alt="github code" width="100px">
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="github code" width="100px">
 <img src="https://octodex.github.com/images/dunetocat.png" alt="github code" width="100px">
-<img src="https://octodex.github.com/images/mummytocat.png" alt="github code" width="100px">
+<img src="https://octodex.github.com/images/mummytocat.gif" alt="github code" width="100px">
 <img src="https://octodex.github.com/images/steroidtocat.png" alt="github code" width="100px">
 <img src="https://octodex.github.com/images/luchadortocat.png" alt="github code" width="100px">
 <img src="https://octodex.github.com/images/topguntocat.png" alt="github code" width="100px">
