@@ -15,7 +15,7 @@
 <img src="https://octodex.github.com/images/ironcat.jpg" alt="github code" width="100px">
 <img src="https://octodex.github.com/images/xtocat.jpg" alt="github code" width="100px">
 <img src="https://octodex.github.com/images/nyantocat.gif" alt="github code" width="100px">
-<img src="https://octodex.github.com/images/dojocat.png" alt="github code" width="100px">
+<img src="https://octodex.github.com/images/dojocat.jpg" alt="github code" width="100px">
 
 ### I am developing with 🌐
 
