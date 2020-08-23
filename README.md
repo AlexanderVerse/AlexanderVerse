@@ -4,6 +4,17 @@
 - I'm currently learning **microservices** 🚢🐳
 - Ask me about **Android developer**
 <img src="https://octodex.github.com/images/baracktocat.jpg" alt="github code" width="100px">
+<img src="https://octodex.github.com/images/droidtocat.jpg" alt="github code" width="100px">
+<img src="https://octodex.github.com/images/daftpunktocat-guy.jpg" alt="github code" width="100px">
+<img src="https://octodex.github.com/images/dunetocat.jpg" alt="github code" width="100px">
+<img src="https://octodex.github.com/images/mummytocat.jpg" alt="github code" width="100px">
+<img src="https://octodex.github.com/images/steroidtocat.jpg" alt="github code" width="100px">
+<img src="https://octodex.github.com/images/luchadortocat.jpg" alt="github code" width="100px">
+<img src="https://octodex.github.com/images/topguntocat.jpg" alt="github code" width="100px">
+<img src="https://octodex.github.com/images/privateinvestocat.jpg" alt="github code" width="100px">
+<img src="https://octodex.github.com/images/ironcat.jpg" alt="github code" width="100px">
+<img src="https://octodex.github.com/images/xtocat.jpg" alt="github code" width="100px">
+<img src="https://octodex.github.com/images/nyantocat.gif" alt="github code" width="100px">
 
 ### I am developing with 🌐
 
