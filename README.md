@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **microservices** 🚢🐳
 - 💬 Ask me about **Android developer**
-<img src="https://octodex.github.com/images/baracktocat.jpg" alt="github code" width="100px">
+<!--<img src="https://octodex.github.com/images/baracktocat.jpg" alt="github code" width="100px">
 <img src="https://octodex.github.com/images/droidtocat.png" alt="github code" width="100px">
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="github code" width="100px">
 <img src="https://octodex.github.com/images/dunetocat.png" alt="github code" width="100px">
@@ -16,7 +16,7 @@
 <img src="https://octodex.github.com/images/ironcat.jpg" alt="github code" width="100px">
 <img src="https://octodex.github.com/images/xtocat.jpg" alt="github code" width="100px">
 <img src="https://octodex.github.com/images/nyantocat.gif" alt="github code" width="100px">
-<img src="https://octodex.github.com/images/dojocat.jpg" alt="github code" width="100px">
+<img src="https://octodex.github.com/images/dojocat.jpg" alt="github code" width="100px">-->
 
 ### I am developing with 🌐
 
