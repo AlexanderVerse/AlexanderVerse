@@ -30,6 +30,9 @@ Tools 🛠️
 
 # 🦔 I invite you to know more about me, visit me!😎🧢
 
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
 <a href="https://github.com/AlexanderVerse">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="github logo" width="22px">
 </a>
@@ -40,7 +43,7 @@ Tools 🛠️
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-Thank you for your collaboration, a warm hug 💖😍   
+<!--Thank you for your collaboration, a warm hug 💖😍   -->
 <!--
 **AlexanderVerse/AlexanderVerse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
