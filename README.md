@@ -1,11 +1,13 @@
 # <p align="center">! Hey<img src="https://octodex.github.com/images/spidertocat.png" alt="github logo" width="110px">developer !</p>
 
 ## I hope 💖 and find what you need!🦾 and I invite you to meet me, let's go 💻🤖!
-<div style="float: left, display: inline">
-  Alexander Rangel
-</div>
-<div style="float: left, display: inline">
-  KIUBO
+<div>
+  <div style="float: left, width:30%">
+    Alexander Rangel
+  </div>
+  <div style="float: left, width:30%">
+    KIUBO
+  </div>  
 </div>
 
 - I'm currently learning **microservices** 🚢🐳
