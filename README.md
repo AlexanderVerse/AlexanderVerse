@@ -2,7 +2,7 @@
 
 ## I hope 💖 and find what you need!🦾 and I invite you to meet me, let's go 💻🤖!
 
-<img align="right" alt="GIF" src="https://octodex.github.com/images/baracktocat.jpg" width="500" height="320" />
+<img align="right" alt="GIF" src="https://octodex.github.com/images/baracktocat.jpg" width="300" height="300" />
 
 - 🌱 I'm currently learning **microservices** 🚢🐳
 - 💬 Ask me about **Android developer**
