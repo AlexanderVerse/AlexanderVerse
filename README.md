@@ -6,6 +6,7 @@
     Alexander Rangel
   </div>
   <div style="float: left">
+    KIUBO
   </div>
 </div>
 
