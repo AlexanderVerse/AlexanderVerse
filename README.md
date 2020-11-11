@@ -30,7 +30,7 @@ Tools 🛠️
 
 # 🦔 I invite you to know more about me, visit me!😎🧢
 
-<a href="https://discord.gg/XTW52Kt">
+<a href="">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://github.com/AlexanderVerse">
