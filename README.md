@@ -2,9 +2,11 @@
 
 ## I hope 💖 and find what you need!🦾 and I invite you to meet me, let's go 💻🤖!
 
+<img align="right" alt="GIF" src="https://octodex.github.com/images/baracktocat.jpg" width="500" height="320" />
+
 - 🌱 I'm currently learning **microservices** 🚢🐳
 - 💬 Ask me about **Android developer**
-<!--<img src="https://octodex.github.com/images/baracktocat.jpg" alt="github code" width="100px">
+<!--<img src="" alt="github code" width="100px">
 <img src="https://octodex.github.com/images/droidtocat.png" alt="github code" width="100px">
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="github code" width="100px">
 <img src="https://octodex.github.com/images/dunetocat.png" alt="github code" width="100px">
