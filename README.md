@@ -2,6 +2,15 @@
 
 ## I hope 💖 and find what you need and I invite you to meet me, let's go ⬇️!
 
+<a href="">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/alexander-rangel-gonzález-181656184/">
+  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/alexanderverst/">
+  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <img align="right" alt="GIF" src="https://octodex.github.com/images/baracktocat.jpg" width="300" height="300" />
 
 - 🌱 I'm currently learning **microservices** 🚢🐳
@@ -32,16 +41,3 @@
 
 **Platforms**  
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-<!-- ### I am developing with 🌐- Know/Using - Learning Tools 🛠️-->
-## 🦔 I invite you to know more about me, visit me!😎🧢
-
-<a href="">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/alexander-rangel-gonzález-181656184/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/alexanderverst/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
