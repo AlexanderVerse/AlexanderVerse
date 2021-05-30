@@ -1,4 +1,4 @@
-# <p align="center">! Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://octodex.github.com/images/spidertocat.png" alt="github logo" width="110px">developer !</p>
+# <p align="center">Hey developer!, I'm Alexander</p>
 
 ## I hope 💖 and find what you need!🦾 and I invite you to meet me, let's go 💻🤖!
 
