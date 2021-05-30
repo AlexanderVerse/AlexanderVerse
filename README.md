@@ -17,4 +17,6 @@
 - 💬 Ask me about **Android developer**
 
 ### Pastimes
--   Read math books
+- Read math books
+- Listen to music
+- Watch baseball
