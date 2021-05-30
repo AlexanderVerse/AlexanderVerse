@@ -1,4 +1,4 @@
-# <p align="center">Hey developer!, I'm Alexander</p>
+Hey developer!, I'm Alexander
 
 ## I hope 💖 and find what you need!🦾 and I invite you to meet me, let's go 💻🤖!
 
