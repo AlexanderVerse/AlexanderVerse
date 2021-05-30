@@ -1,6 +1,6 @@
-# Hey developer!, I'm Alexander
+# What's up developer 👋 I'm Alexander👨‍💻
 
-## I hope 💖 and find what you need!🦾 and I invite you to meet me, let's go 💻🤖!
+## I hope 💖 and find what you need and I invite you to meet me, let's go ⬇️!
 
 <img align="right" alt="GIF" src="https://octodex.github.com/images/baracktocat.jpg" width="300" height="300" />
 
