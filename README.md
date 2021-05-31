@@ -14,8 +14,8 @@
 <br>
 
 ```
-const anmol = {
-    pronouns: "He" | "Him",
+<span style="color:red"> const Aleksandr </span> = {
+    pronouns: "Sasha",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
