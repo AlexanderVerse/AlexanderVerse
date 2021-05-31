@@ -19,7 +19,7 @@
 const Aleksandr = {
     pronouns: "Sasha",
     code: ["Kotlin", "Javascript", "Typescript", "Python", "Java", "PHP", "C"],
-    askMeAbout: ["Android", "Deno", "Node.js", "Kotlin"],
+    currentFocus: ["Android", "Deno", "Node.js", "Kotlin"],
     technologies: {
         backEnd: {
             js: ["node", "express"],
@@ -34,15 +34,9 @@ const Aleksandr = {
         },
         devOps: ["AWS", "Docker🐳", "Kubernetes"],
         databases: ["mongoDB", "sqlite", "MySQl"],
-        misc: ["Firebase", "Google Maps"]
+        misc: ["Firebase", "Google Maps", "PWA"]
     },
-    architecture: ["Serverless Architecture", "PWA"],
-    currentFocus: "Android Mobile App Development",
+    Pastimes: ["Read math books", "Listen to music", "Watch baseball"]
     funFact: "I usually make a rabbit out of the top hat"
 };
 ```
-
-### Pastimes
-- Read math books
-- Listen to music
-- Watch baseball
