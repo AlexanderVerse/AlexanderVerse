@@ -13,8 +13,8 @@
 </a>
 <br>
 
-```
-<span style="color:red"> const Aleksandr </span> = {
+```javascript
+const Aleksandr = {
     pronouns: "Sasha",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
