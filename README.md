@@ -13,6 +13,7 @@
 </a>
 <br>
 
+´´´
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
@@ -36,7 +37,7 @@ const anmol = {
     currentFocus: "Ios Mobile App Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
-
+´´´
 
 ### Pastimes
 - Read math books
