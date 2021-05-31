@@ -1,4 +1,4 @@
-# What's up developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Alexander👨‍💻
+# What's up developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I hope 💖 and find what you need and I invite you to meet me, let's go ⬇️!
 <a href="">
