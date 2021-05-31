@@ -1,10 +1,8 @@
 # What's up developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I hope 💖 and find what you need and I invite you to meet me, let's go ⬇️!
+
 <div width="100%">
-<a href="">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://www.linkedin.com/in/alexander-rangel-gonzález-181656184/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
