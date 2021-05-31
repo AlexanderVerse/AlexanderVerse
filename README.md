@@ -2,6 +2,7 @@
 
 ## I hope 💖 and find what you need and I invite you to meet me, let's go ⬇️!
 
+<p align="center">
 <a href="">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -11,7 +12,7 @@
 <a href="https://www.instagram.com/alexanderverst/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br>
+</p>
 
 ```javascript
 const Aleksandr = {
