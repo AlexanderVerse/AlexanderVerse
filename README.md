@@ -2,19 +2,6 @@
 
 ## I hope 💖 and find what you need and I invite you to meet me, let's go ⬇️!
 
-<div width="100%">
-<a href="https://www.linkedin.com/in/alexander-rangel-gonzález-181656184/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.instagram.com/alexanderverst/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-</div>
-
-
 ```javascript
 const Aleksandr = {
     pronouns: "Sasha",
@@ -40,3 +27,13 @@ const Aleksandr = {
     funFact: "I usually make a rabbit out of the top hat"
 };
 ```
+
+<a href="https://www.linkedin.com/in/alexander-rangel-gonzález-181656184/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://www.instagram.com/alexanderverst/">
+  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
