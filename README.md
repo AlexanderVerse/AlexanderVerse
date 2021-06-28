@@ -5,12 +5,12 @@
 ```javascript
 const Aleksandr = {
     pronouns: "Sasha",
-    code: ["Kotlin", "Javascript", "Typescript", "Python", "Java", "PHP", "C"],
+    code: ["Kotlin", "JavaScript", "TypeScript", "Python", "Java", "PHP", "C"],
     currentFocus: ["Android", "Deno", "Node.js", "Kotlin"],
     technologies: {
         backEnd: {
-            js: ["node", "express"],
-            typescript: ["deno"]
+            js: ["Node.js", "Express.js"],
+            typescript: ["Deno"]
         },
         frontEnd: {
             js: ["React"]
