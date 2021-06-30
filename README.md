@@ -20,7 +20,7 @@ const Aleksandr = {
             hybrid: ["Ionic"]
         },
         devOps: ["AWS", "Docker🐳", "Kubernetes"],
-        databases: ["mongoDB", "sqlite", "MySQl"],
+        databases: ["mongoDB", "SQLite", "MySQl"],
         misc: ["Firebase", "Google Maps", "PWA"]
     },
     Pastimes: ["Read math books", "Listen to music", "Watch baseball"]
