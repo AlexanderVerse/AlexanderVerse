@@ -28,7 +28,7 @@ const Aleksandr = {
 };
 ```
 
-<a href="https://www.linkedin.com/in/alexander-rangel-gonzález-181656184/">
+<a href="www.linkedin.com/in/alexanderverse/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="">
