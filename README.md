@@ -27,7 +27,3 @@ const Aleksandr = {
     funFact: "I usually make a rabbit out of the top hat"
 };
 ```
-
-<a href="https://www.linkedin.com/in/alexanderverse">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
